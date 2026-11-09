@@ -1,0 +1,92 @@
+{
+ "name": "awesome-gpt-image-2.6-prompts",
+ "curl": "export APIKO_API_KEY=\"your_key_here\"\n\nTASK_ID=$(curl -s https://api.apiko.app/v1/images/generations \\\n  -H \"Authorization: Bearer $APIKO_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\n  \"model\": \"gpt-image-2.6-flare\",\n  \"prompt\": \"A minimalist poster of a paper boat on a calm lake at sunrise, the title \\\"Morning\\\" in bold serif type.\",\n  \"size\": \"16:9\",\n  \"resolution\": \"1k\",\n  \"quality\": \"medium\",\n  \"async\": true\n}' | python3 -c 'import json,sys; print(json.load(sys.stdin)[\"id\"])')\n\n# When status is \"completed\", the image is at data[0].url (kept for 24 hours).\nwhile :; do\n  TASK=$(curl -s https://api.apiko.app/v1/tasks/$TASK_ID \\\n    -H \"Authorization: Bearer $APIKO_API_KEY\")\n  printf '%s\\n' \"$TASK\"\n  printf '%s' \"$TASK\" | grep -qE '\"status\": *\"(completed|failed)\"|\"error\": *\\{' && break\n  sleep 5\ndone",
+ "endpoints": [
+  [
+   "POST",
+   "/v1/images/generations",
+   "create"
+  ],
+  [
+   "GET",
+   "/v1/tasks/{id}",
+   "poll"
+  ]
+ ],
+ "notices": true,
+ "siblings": [
+  [
+   "awesome-seedance-2.5-prompts",
+   "Awesome Seedance 2.5 Prompts"
+  ],
+  [
+   "awesome-nano-banana-2.1-prompts",
+   "Awesome Nano Banana 2.1 Prompts"
+  ],
+  [
+   "awesome-gpt-image-2.5-prompts",
+   "Awesome GPT Image 2.5 Prompts"
+  ],
+  [
+   "awesome-gpt-image-2-prompts",
+   "Awesome GPT Image 2 Prompts"
+  ],
+  [
+   "awesome-claude-opus-5.5-video-prompts",
+   "Awesome Claude Opus 5.5 Video Prompts"
+  ],
+  [
+   "awesome-wan-3.0-prompts",
+   "Awesome Wan 3.0 Prompts"
+  ]
+ ],
+ "gifs": [
+  "gif-animation-01",
+  "gif-animation-02",
+  "gif-animation-03",
+  "gif-animation-04",
+  "gif-animation-05",
+  "gif-animation-06",
+  "gif-animation-07",
+  "gif-animation-08",
+  "gif-animation-09",
+  "characters-stickers-04",
+  "characters-stickers-06",
+  "characters-stickers-07",
+  "gif-animation-10",
+  "gif-animation-11",
+  "gif-animation-12",
+  "gif-animation-13",
+  "characters-stickers-08",
+  "gif-animation-14",
+  "gif-animation-15",
+  "gif-animation-16",
+  "gif-animation-17",
+  "gif-animation-18",
+  "gif-animation-19",
+  "gif-animation-21",
+  "gif-animation-22",
+  "gif-animation-24",
+  "gif-animation-25",
+  "gif-animation-26",
+  "gif-animation-27",
+  "gif-animation-28",
+  "gif-animation-29",
+  "gif-animation-30",
+  "gif-animation-31",
+  "gif-animation-32",
+  "gif-animation-33",
+  "gif-animation-34",
+  "gif-animation-35",
+  "gif-animation-36",
+  "characters-stickers-10",
+  "gif-animation-37",
+  "gif-animation-38",
+  "gif-animation-39",
+  "characters-stickers-13",
+  "characters-stickers-14",
+  "characters-stickers-15",
+  "characters-stickers-16",
+  "gif-animation-40"
+ ]
+}

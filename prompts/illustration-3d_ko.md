@@ -1,0 +1,830 @@
+<div align="center">
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-gpt-image-2.6-prompts"><img src="../assets/banner.jpg" alt="Awesome GPT Image 2.6 프롬프트" width="100%"></a>
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey)](../LICENSE)
+[![Prompts](https://img.shields.io/badge/Prompts-319_cases-111111)](../README_ko.md#menu)
+[![Try GPT Image 2.6 on APIKO](https://img.shields.io/badge/Try_GPT_Image_2.6-on_APIKO-4F46E5)](https://apiko.app/ko/models/gpt-image-2.6-flare?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=model_try)
+[![GPT Image 2.6 API docs](https://img.shields.io/badge/GPT_Image_2.6-API_docs-111111)](https://apiko.app/docs/api-manual/image-series/gpt-image-2.6-flare/images?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=docs)
+
+[![🇺🇸 English](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8_English-Default-4F46E5)](illustration-3d.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B3_%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-4F46E5)](illustration-3d_zh-CN.md)
+[![🇹🇼 繁體中文](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%BC_%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-%E6%9F%A5%E7%9C%8B-4F46E5)](illustration-3d_zh-TW.md)
+[![🇰🇷 한국어](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%B7_%ED%95%9C%EA%B5%AD%EC%96%B4-Current-111111)](illustration-3d_ko.md)
+
+</div>
+
+# 🎨 일러스트와 3D · Awesome GPT Image 2.6 프롬프트
+
+[← README로 돌아가기](../README_ko.md) · 이 페이지에 57개가 있습니다. 프롬프트는 번역하지 않은 원문입니다.
+
+> 그림책, 만화 컷, 종이 공예 장면, 클레이 흉상, 재질 연구.
+
+- [종이 공예 우승 장면, complexity 3단계 비교](#illustration-3d-01)
+- [4컷 만화: 혼자 남은 반려동물](#illustration-3d-02)
+- [비 오는 창가 애니 장면, 골든아워 역광](#illustration-3d-04)
+- [수채 식물 연구, 무디한 로우키 조명](#illustration-3d-05)
+- [종이 공예 마을 풍경, 균일한 스튜디오 조명](#illustration-3d-06)
+- [과슈 그림책 펼침면, 안개와 림 라이트](#illustration-3d-07)
+- [레트로 만화 컷, 부드러운 창문 빛](#illustration-3d-08)
+- [비 오는 창가 애니 장면, 강한 키 라이트](#illustration-3d-09)
+- [수채 식물 연구, 골든아워 역광](#illustration-3d-10)
+- [종이 공예 마을 풍경, 무디한 로우키 조명](#illustration-3d-11)
+- [과슈 그림책 펼침면, 균일한 스튜디오 조명](#illustration-3d-12)
+- [레트로 만화 컷, 안개와 림 라이트](#illustration-3d-13)
+- [비 오는 창가 애니 장면, 부드러운 창문 빛](#illustration-3d-14)
+- [수채 식물 연구, 강한 키 라이트](#illustration-3d-15)
+- [종이 공예 마을 풍경, 골든아워 역광](#illustration-3d-16)
+- [과슈 그림책 펼침면, 무디한 로우키 조명](#illustration-3d-17)
+- [레트로 만화 컷, 균일한 스튜디오 조명](#illustration-3d-18)
+- [비 오는 창가 애니 장면, 안개와 림 라이트](#illustration-3d-19)
+- [수채 식물 연구, 부드러운 창문 빛](#illustration-3d-20)
+- [종이 공예 마을 풍경, 강한 키 라이트](#illustration-3d-21)
+- [과슈 그림책 펼침면, 골든아워 역광](#illustration-3d-22)
+- [비 오는 창가 애니 장면, 균일한 스튜디오 조명](#illustration-3d-24)
+- [수채 식물 연구, 안개와 림 라이트](#illustration-3d-25)
+- [종이 공예 마을 풍경, 부드러운 창문 빛](#illustration-3d-26)
+- [과슈 그림책 펼침면, 강한 키 라이트](#illustration-3d-27)
+- [레트로 만화 컷, 골든아워 역광](#illustration-3d-28)
+- [비 오는 창가 애니 장면, 무디한 로우키 조명](#illustration-3d-29)
+- [수채 식물 연구, 균일한 스튜디오 조명](#illustration-3d-30)
+- [종이 공예 마을 풍경, 안개와 림 라이트](#illustration-3d-31)
+- [유리 프리즘 정물, 강한 키 라이트](#illustration-3d-32)
+- [클레이 캐릭터 흉상, 골든아워 역광](#illustration-3d-33)
+- [리퀴드 크롬 레터링, 무디한 로우키 조명](#illustration-3d-34)
+- [패브릭 드레이프 연구, 균일한 스튜디오 조명](#illustration-3d-35)
+- [광물 질감 근접, 안개와 림 라이트](#illustration-3d-36)
+- [유리 프리즘 정물, 부드러운 창문 빛](#illustration-3d-37)
+- [클레이 캐릭터 흉상, 강한 키 라이트](#illustration-3d-38)
+- [리퀴드 크롬 레터링, 골든아워 역광](#illustration-3d-39)
+- [패브릭 드레이프 연구, 무디한 로우키 조명](#illustration-3d-40)
+- [광물 질감 근접, 균일한 스튜디오 조명](#illustration-3d-41)
+- [유리 프리즘 정물, 안개와 림 라이트](#illustration-3d-42)
+- [클레이 캐릭터 흉상, 부드러운 창문 빛](#illustration-3d-43)
+- [리퀴드 크롬 레터링, 강한 키 라이트](#illustration-3d-44)
+- [패브릭 드레이프 연구, 골든아워 역광](#illustration-3d-45)
+- [광물 질감 근접, 무디한 로우키 조명](#illustration-3d-46)
+- [유리 프리즘 정물, 균일한 스튜디오 조명](#illustration-3d-47)
+- [클레이 캐릭터 흉상, 안개와 림 라이트](#illustration-3d-48)
+- [리퀴드 크롬 레터링, 부드러운 창문 빛](#illustration-3d-49)
+- [패브릭 드레이프 연구, 강한 키 라이트](#illustration-3d-50)
+- [광물 질감 근접, 골든아워 역광](#illustration-3d-51)
+- [유리 프리즘 정물, 무디한 로우키 조명](#illustration-3d-52)
+- [클레이 캐릭터 흉상, 균일한 스튜디오 조명](#illustration-3d-53)
+- [리퀴드 크롬 레터링, 안개와 림 라이트](#illustration-3d-54)
+- [패브릭 드레이프 연구, 부드러운 창문 빛](#illustration-3d-55)
+- [광물 질감 근접, 강한 키 라이트](#illustration-3d-56)
+- [유리 프리즘 정물, 골든아워 역광](#illustration-3d-57)
+- [클레이 캐릭터 흉상, 무디한 로우키 조명](#illustration-3d-58)
+- [리퀴드 크롬 레터링, 균일한 스튜디오 조명](#illustration-3d-59)
+
+<a id="illustration-3d-01"></a>
+### 130. 종이 공예 우승 장면, complexity 3단계 비교
+
+작성자 [@OpenAI](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6#compare-complexity) · 2:3 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-01#illustration-3d-01)** · [원본 게시물](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6#compare-complexity)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-01#illustration-3d-01"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-01.webp" width="190" alt="종이 공예 우승 장면, complexity 3단계 비교 – GPT Image 2.6 1"></a></td><td align="center"><a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-01#illustration-3d-01"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-01-2.webp" width="190" alt="종이 공예 우승 장면, complexity 3단계 비교 – GPT Image 2.6 2"></a></td><td align="center"><a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-01#illustration-3d-01"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-01-3.webp" width="190" alt="종이 공예 우승 장면, complexity 3단계 비교 – GPT Image 2.6 3"></a></td></tr>
+</table>
+
+**프롬프트:**
+
+```text
+A premium handcrafted layered paper-cut illustration of a football team celebrating a championship victory inside a packed stadium.
+```
+
+<a id="illustration-3d-02"></a>
+### 131. 4컷 만화: 혼자 남은 반려동물
+
+작성자 [@OpenAI](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6#turn-a-story-into-a-comic-strip) · 2:3 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-02#illustration-3d-02)** · [원본 게시물](https://developers.openai.com/api/docs/guides/image-prompting?model=gpt-image-2.6#turn-a-story-into-a-comic-strip)
+
+<table>
+<tr><td align="center"><a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-02#illustration-3d-02"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-02.webp" width="260" alt="4컷 만화: 혼자 남은 반려동물 – GPT Image 2.6 1"></a></td><td align="center"><a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-02#illustration-3d-02"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-02-2.webp" width="260" alt="4컷 만화: 혼자 남은 반려동물 – GPT Image 2.6 2"></a></td></tr>
+</table>
+
+**프롬프트:**
+
+```text
+Create a short vertical comic-style reel with 4 panels.
+Panel 1: The owner leaves through the front door. The pet is framed in the window behind them, small against the glass, eyes wide, paws pressed high, the house suddenly quiet.
+Panel 2: The door clicks shut. Silence breaks. The pet slowly turns toward the empty house, posture shifting, eyes sharp with possibility.
+Panel 3: The house transformed. The pet sprawls across the couch like it owns the place, crumbs nearby, sunlight cutting across the room like a spotlight.
+Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and composed, as if nothing happened.
+```
+
+<a id="illustration-3d-04"></a>
+### 132. 비 오는 창가 애니 장면, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-04#illustration-3d-04)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-113)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-04#illustration-3d-04"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-04.webp" width="480" alt="비 오는 창가 애니 장면, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, golden hour backlight, 85mm lens, shallow depth of field, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-05"></a>
+### 133. 수채 식물 연구, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-05#illustration-3d-05)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-114)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-05#illustration-3d-05"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-05.webp" width="480" alt="수채 식물 연구, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, moody low-key lighting, isometric 3D render look, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-06"></a>
+### 134. 종이 공예 마을 풍경, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-06#illustration-3d-06)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-115)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-06#illustration-3d-06"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-06.webp" width="480" alt="종이 공예 마을 풍경, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, even diffused studio light, 100mm macro, commercial product photography, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-07"></a>
+### 135. 과슈 그림책 펼침면, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-07#illustration-3d-07)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-116)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-07#illustration-3d-07"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-07.webp" width="480" alt="과슈 그림책 펼침면, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+gouache children book spread, volumetric fog with rim light, isometric 3D render look, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-08"></a>
+### 136. 레트로 만화 컷, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-08#illustration-3d-08)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-117)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-08#illustration-3d-08"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-08.webp" width="480" alt="레트로 만화 컷, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+retro manga panel, soft window light, 100mm macro, commercial product photography, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-09"></a>
+### 137. 비 오는 창가 애니 장면, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-09#illustration-3d-09)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-118)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-09#illustration-3d-09"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-09.webp" width="480" alt="비 오는 창가 애니 장면, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, hard directional key light with subtle fill, isometric 3D render look, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-10"></a>
+### 138. 수채 식물 연구, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-10#illustration-3d-10)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-119)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-10#illustration-3d-10"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-10.webp" width="480" alt="수채 식물 연구, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, golden hour backlight, wide angle, architectural composition, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-11"></a>
+### 139. 종이 공예 마을 풍경, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-11#illustration-3d-11)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-120)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-11#illustration-3d-11"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-11.webp" width="480" alt="종이 공예 마을 풍경, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, moody low-key lighting, film grain, analog color science, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-12"></a>
+### 140. 과슈 그림책 펼침면, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-12#illustration-3d-12)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-121)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-12#illustration-3d-12"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-12.webp" width="480" alt="과슈 그림책 펼침면, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+gouache children book spread, even diffused studio light, wide angle, architectural composition, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-13"></a>
+### 141. 레트로 만화 컷, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-13#illustration-3d-13)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-122)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-13#illustration-3d-13"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-13.webp" width="480" alt="레트로 만화 컷, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+retro manga panel, volumetric fog with rim light, film grain, analog color science, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-14"></a>
+### 142. 비 오는 창가 애니 장면, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-14#illustration-3d-14)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-123)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-14#illustration-3d-14"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-14.webp" width="480" alt="비 오는 창가 애니 장면, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, soft window light, wide angle, architectural composition, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-15"></a>
+### 143. 수채 식물 연구, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-15#illustration-3d-15)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-124)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-15#illustration-3d-15"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-15.webp" width="480" alt="수채 식물 연구, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, hard directional key light with subtle fill, 85mm lens, shallow depth of field, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-16"></a>
+### 144. 종이 공예 마을 풍경, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-16#illustration-3d-16)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-125)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-16#illustration-3d-16"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-16.webp" width="480" alt="종이 공예 마을 풍경, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, golden hour backlight, top-down flat lay, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-17"></a>
+### 145. 과슈 그림책 펼침면, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-17#illustration-3d-17)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-126)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-17#illustration-3d-17"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-17.webp" width="480" alt="과슈 그림책 펼침면, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+gouache children book spread, moody low-key lighting, 85mm lens, shallow depth of field, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-18"></a>
+### 146. 레트로 만화 컷, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-18#illustration-3d-18)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-127)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-18#illustration-3d-18"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-18.webp" width="480" alt="레트로 만화 컷, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+retro manga panel, even diffused studio light, top-down flat lay, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-19"></a>
+### 147. 비 오는 창가 애니 장면, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-19#illustration-3d-19)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-128)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-19#illustration-3d-19"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-19.webp" width="480" alt="비 오는 창가 애니 장면, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, volumetric fog with rim light, 85mm lens, shallow depth of field, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-20"></a>
+### 148. 수채 식물 연구, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-20#illustration-3d-20)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-129)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-20#illustration-3d-20"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-20.webp" width="480" alt="수채 식물 연구, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, soft window light, isometric 3D render look, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-21"></a>
+### 149. 종이 공예 마을 풍경, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-21#illustration-3d-21)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-130)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-21#illustration-3d-21"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-21.webp" width="480" alt="종이 공예 마을 풍경, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, hard directional key light with subtle fill, 100mm macro, commercial product photography, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-22"></a>
+### 150. 과슈 그림책 펼침면, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-22#illustration-3d-22)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-131)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-22#illustration-3d-22"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-22.webp" width="480" alt="과슈 그림책 펼침면, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+gouache children book spread, golden hour backlight, isometric 3D render look, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-24"></a>
+### 151. 비 오는 창가 애니 장면, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-24#illustration-3d-24)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-133)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-24#illustration-3d-24"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-24.webp" width="480" alt="비 오는 창가 애니 장면, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, even diffused studio light, isometric 3D render look, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-25"></a>
+### 152. 수채 식물 연구, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-25#illustration-3d-25)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-134)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-25#illustration-3d-25"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-25.webp" width="480" alt="수채 식물 연구, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, volumetric fog with rim light, wide angle, architectural composition, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-26"></a>
+### 153. 종이 공예 마을 풍경, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-26#illustration-3d-26)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-135)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-26#illustration-3d-26"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-26.webp" width="480" alt="종이 공예 마을 풍경, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, soft window light, film grain, analog color science, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-27"></a>
+### 154. 과슈 그림책 펼침면, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-27#illustration-3d-27)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-136)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-27#illustration-3d-27"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-27.webp" width="480" alt="과슈 그림책 펼침면, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+gouache children book spread, hard directional key light with subtle fill, wide angle, architectural composition, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-28"></a>
+### 155. 레트로 만화 컷, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-28#illustration-3d-28)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-137)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-28#illustration-3d-28"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-28.webp" width="480" alt="레트로 만화 컷, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+retro manga panel, golden hour backlight, film grain, analog color science, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-29"></a>
+### 156. 비 오는 창가 애니 장면, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-29#illustration-3d-29)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-138)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-29#illustration-3d-29"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-29.webp" width="480" alt="비 오는 창가 애니 장면, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+anime rainy window scene, moody low-key lighting, wide angle, architectural composition, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-30"></a>
+### 157. 수채 식물 연구, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-30#illustration-3d-30)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-139)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-30#illustration-3d-30"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-30.webp" width="480" alt="수채 식물 연구, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+watercolor botanical study, even diffused studio light, 85mm lens, shallow depth of field, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-31"></a>
+### 158. 종이 공예 마을 풍경, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-31#illustration-3d-31)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-140)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-31#illustration-3d-31"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-31.webp" width="480" alt="종이 공예 마을 풍경, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+paper-cut village landscape, volumetric fog with rim light, top-down flat lay, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-32"></a>
+### 159. 유리 프리즘 정물, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-32#illustration-3d-32)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-141)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-32#illustration-3d-32"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-32.webp" width="480" alt="유리 프리즘 정물, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, hard directional key light with subtle fill, isometric 3D render look, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-33"></a>
+### 160. 클레이 캐릭터 흉상, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-33#illustration-3d-33)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-142)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-33#illustration-3d-33"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-33.webp" width="480" alt="클레이 캐릭터 흉상, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, golden hour backlight, top-down flat lay, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-34"></a>
+### 161. 리퀴드 크롬 레터링, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-34#illustration-3d-34)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-143)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-34#illustration-3d-34"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-34.webp" width="480" alt="리퀴드 크롬 레터링, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, moody low-key lighting, top-down flat lay, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-35"></a>
+### 162. 패브릭 드레이프 연구, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-35#illustration-3d-35)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-144)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-35#illustration-3d-35"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-35.webp" width="480" alt="패브릭 드레이프 연구, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+fabric drape study, even diffused studio light, 85mm lens, shallow depth of field, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-36"></a>
+### 163. 광물 질감 근접, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-36#illustration-3d-36)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-145)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-36#illustration-3d-36"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-36.webp" width="480" alt="광물 질감 근접, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+macro mineral texture, volumetric fog with rim light, film grain, analog color science, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-37"></a>
+### 164. 유리 프리즘 정물, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-37#illustration-3d-37)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-146)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-37#illustration-3d-37"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-37.webp" width="480" alt="유리 프리즘 정물, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, soft window light, wide angle, architectural composition, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-38"></a>
+### 165. 클레이 캐릭터 흉상, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-38#illustration-3d-38)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-147)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-38#illustration-3d-38"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-38.webp" width="480" alt="클레이 캐릭터 흉상, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, hard directional key light with subtle fill, 100mm macro, commercial product photography, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-39"></a>
+### 166. 리퀴드 크롬 레터링, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-39#illustration-3d-39)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-148)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-39#illustration-3d-39"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-39.webp" width="480" alt="리퀴드 크롬 레터링, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, golden hour backlight, 100mm macro, commercial product photography, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-40"></a>
+### 167. 패브릭 드레이프 연구, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-40#illustration-3d-40)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-149)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-40#illustration-3d-40"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-40.webp" width="480" alt="패브릭 드레이프 연구, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+fabric drape study, moody low-key lighting, isometric 3D render look, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-41"></a>
+### 168. 광물 질감 근접, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-41#illustration-3d-41)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-150)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-41#illustration-3d-41"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-41.webp" width="480" alt="광물 질감 근접, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+macro mineral texture, even diffused studio light, top-down flat lay, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-42"></a>
+### 169. 유리 프리즘 정물, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-42#illustration-3d-42)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-151)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-42#illustration-3d-42"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-42.webp" width="480" alt="유리 프리즘 정물, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, volumetric fog with rim light, 85mm lens, shallow depth of field, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-43"></a>
+### 170. 클레이 캐릭터 흉상, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-43#illustration-3d-43)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-152)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-43#illustration-3d-43"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-43.webp" width="480" alt="클레이 캐릭터 흉상, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, soft window light, film grain, analog color science, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-44"></a>
+### 171. 리퀴드 크롬 레터링, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-44#illustration-3d-44)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-153)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-44#illustration-3d-44"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-44.webp" width="480" alt="리퀴드 크롬 레터링, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, hard directional key light with subtle fill, film grain, analog color science, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-45"></a>
+### 172. 패브릭 드레이프 연구, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-45#illustration-3d-45)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-154)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-45#illustration-3d-45"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-45.webp" width="480" alt="패브릭 드레이프 연구, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+fabric drape study, golden hour backlight, wide angle, architectural composition, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-46"></a>
+### 173. 광물 질감 근접, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-46#illustration-3d-46)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-155)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-46#illustration-3d-46"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-46.webp" width="480" alt="광물 질감 근접, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+macro mineral texture, moody low-key lighting, 100mm macro, commercial product photography, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-47"></a>
+### 174. 유리 프리즘 정물, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-47#illustration-3d-47)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-156)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-47#illustration-3d-47"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-47.webp" width="480" alt="유리 프리즘 정물, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, even diffused studio light, isometric 3D render look, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-48"></a>
+### 175. 클레이 캐릭터 흉상, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-48#illustration-3d-48)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-157)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-48#illustration-3d-48"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-48.webp" width="480" alt="클레이 캐릭터 흉상, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, volumetric fog with rim light, top-down flat lay, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-49"></a>
+### 176. 리퀴드 크롬 레터링, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-49#illustration-3d-49)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-158)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-49#illustration-3d-49"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-49.webp" width="480" alt="리퀴드 크롬 레터링, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, soft window light, top-down flat lay, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-50"></a>
+### 177. 패브릭 드레이프 연구, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-50#illustration-3d-50)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-159)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-50#illustration-3d-50"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-50.webp" width="480" alt="패브릭 드레이프 연구, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+fabric drape study, hard directional key light with subtle fill, 85mm lens, shallow depth of field, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-51"></a>
+### 178. 광물 질감 근접, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-51#illustration-3d-51)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-160)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-51#illustration-3d-51"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-51.webp" width="480" alt="광물 질감 근접, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+macro mineral texture, golden hour backlight, film grain, analog color science, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-52"></a>
+### 179. 유리 프리즘 정물, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-52#illustration-3d-52)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-161)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-52#illustration-3d-52"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-52.webp" width="480" alt="유리 프리즘 정물, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, moody low-key lighting, wide angle, architectural composition, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-53"></a>
+### 180. 클레이 캐릭터 흉상, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-53#illustration-3d-53)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-162)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-53#illustration-3d-53"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-53.webp" width="480" alt="클레이 캐릭터 흉상, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, even diffused studio light, 100mm macro, commercial product photography, 16:9 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-54"></a>
+### 181. 리퀴드 크롬 레터링, 안개와 림 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-54#illustration-3d-54)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-163)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-54#illustration-3d-54"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-54.webp" width="480" alt="리퀴드 크롬 레터링, 안개와 림 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, volumetric fog with rim light, 100mm macro, commercial product photography, 4:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-55"></a>
+### 182. 패브릭 드레이프 연구, 부드러운 창문 빛
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-55#illustration-3d-55)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-164)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-55#illustration-3d-55"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-55.webp" width="480" alt="패브릭 드레이프 연구, 부드러운 창문 빛 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+fabric drape study, soft window light, isometric 3D render look, 1:1 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-56"></a>
+### 183. 광물 질감 근접, 강한 키 라이트
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-56#illustration-3d-56)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-165)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-56#illustration-3d-56"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-56.webp" width="480" alt="광물 질감 근접, 강한 키 라이트 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+macro mineral texture, hard directional key light with subtle fill, top-down flat lay, 3:4 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-57"></a>
+### 184. 유리 프리즘 정물, 골든아워 역광
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-57#illustration-3d-57)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-166)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-57#illustration-3d-57"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-57.webp" width="480" alt="유리 프리즘 정물, 골든아워 역광 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+glass prism still life, golden hour backlight, 85mm lens, shallow depth of field, 4:5 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-58"></a>
+### 185. 클레이 캐릭터 흉상, 무디한 로우키 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-58#illustration-3d-58)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-167)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-58#illustration-3d-58"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-58.webp" width="480" alt="클레이 캐릭터 흉상, 무디한 로우키 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+clay character bust, moody low-key lighting, film grain, analog color science, 2:3 composition, highly detailed, professional quality
+```
+
+<a id="illustration-3d-59"></a>
+### 186. 리퀴드 크롬 레터링, 균일한 스튜디오 조명
+
+작성자 [@fujc683](https://github.com/fujc683/awesome-gpt-image-2-6-prompts) · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-59#illustration-3d-59)** · [원본 게시물](https://github.com/fujc683/awesome-gpt-image-2-6-prompts#no-168)
+
+<a href="https://apiko.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-gpt-image-2.6-prompts&utm_content=illustration-3d-59#illustration-3d-59"><img src="https://media.apiko.app/prompts/gpt-image-2-6-prompts/illustration-3d-59.webp" width="480" alt="리퀴드 크롬 레터링, 균일한 스튜디오 조명 – GPT Image 2.6"></a>
+
+**프롬프트:**
+
+```text
+liquid chrome lettering, even diffused studio light, film grain, analog color science, 16:9 composition, highly detailed, professional quality
+```
+
+[← README로 돌아가기](../README_ko.md)
